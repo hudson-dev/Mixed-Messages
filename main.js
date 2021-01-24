@@ -1,3 +1,3 @@
-function generateMessage (){
+const generateMessage = () => {
 
 }
