@@ -2,13 +2,15 @@
 > A portfolio project for Codecademy's Full Stack Pro Path.
 
 ## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+- [Mixed Messages](#mixed-messages)
+  - [Table of contents](#table-of-contents)
+  - [General info](#general-info)
+  - [Technologies](#technologies)
+  - [Setup](#setup)
+  - [Features](#features)
+  - [Status](#status)
+  - [Inspiration](#inspiration)
+  - [Contact](#contact)
 
 ## General info
 A portfolio project for Codecademy's Full Stack Pro Path to help familiarize me with Javascript, Node.js, Github, and the Command Line.
@@ -34,7 +36,7 @@ List of features ready and TODOs for future development
 Project is: _in progress_
 
 ## Inspiration
-All credit goes to [Codecademy](codecademy.com/learn)
+All credit goes to [Codecademy](https://www.codecademy.com/learn)
 
 ## Contact
 Created by [@hudson-dev](https://github.com/hudson-dev) - feel free to contact me!
