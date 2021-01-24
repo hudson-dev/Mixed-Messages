@@ -26,7 +26,7 @@ To run this project, git clone the repo and run with node.js.
 
 ## Features
 List of features ready and TODOs for future development
-* Set Up Version Control
+* ~~Set Up Version Control~~
 * Store Mesage Components
 * Create the Message
 * Put the Program Together
