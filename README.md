@@ -1,5 +1,5 @@
 # Mixed Messages
-> A portfolio project for Codecademy's Full Stack Pro Path. Visit the website: [here](https://hudson-dev.github.io/excursion/)
+> A portfolio project for Codecademy's Full Stack Pro Path.
 
 ## Table of contents
 - [Mixed Messages](#mixed-messages)
