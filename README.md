@@ -1,5 +1,5 @@
 # Mixed Messages
-> A portfolio project for Codecademy's Full Stack Pro Path.
+> A portfolio project for Codecademy's Full Stack Pro Path. Visit the website: [here](https://hudson-dev.github.io/excursion/)
 
 ## Table of contents
 - [Mixed Messages](#mixed-messages)
@@ -24,16 +24,8 @@ A portfolio project for Codecademy's Full Stack Pro Path to help familiarize me 
 ## Setup
 To run this project, git clone the repo and run with node.js.
 
-## Features
-List of features ready and TODOs for future development
-* ~~Set Up Version Control~~
-* ~~Store Mesage Components~~
-* ~~Create the Message~~
-* ~~Put the Program Together~~
-* ~~Next Steps~~
-
 ## Status
-Project is: _in progress_
+Project is: _done_
 
 ## Inspiration
 All credit goes to [Codecademy](https://www.codecademy.com/learn)
